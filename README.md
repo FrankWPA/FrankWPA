@@ -1,3 +1,3 @@
 ### Olá 👋
 
-Sou estudante de Design de Jogos e Entretenimento Digital e trabalho com programação, desenvolvimento de jogos.
+Sou estudante de Design de Jogos e Entretenimento Digital e trabalho com programação e desenvolvimento de jogos.
