@@ -1,4 +1,5 @@
 <h3>Hello, my name is Frank 👋</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=FrankWPA&theme=dark&count_private=true&show_icons=true" align=right>
 <hr>
 
 I'm a game design student and work with programming and game development.
