@@ -1,13 +1,29 @@
-<h3>Hello, my name is Luna 👋</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=LunaAmora&theme=dark&count_private=true&show_icons=true" align=right>
-<hr>
+<h1 align='center'>
+  Hello, my name is Luna 👋
+</h1>
 
-I'm a game design student and work with programming and game development.
+<p align='center'>
+  I'm a game design student and work with programming and game development.
+</p>
 
-[<img src='https://icon-icons.com/downloadimage.php?id=81519&root=1154/SVG/&file=1486564398-menu2_81519.svg' alt='website' height='40'>](https://lunaamora.github.io/) 
-[<img src='https://icon-icons.com/downloadimage.php?id=146025&root=2407/SVG/&file=itch_icon_146025.svg' alt='itch-dot-io' height='40'>](https://frank-wallace.itch.io/) [<img src='https://icon-icons.com/downloadimage.php?id=65929&root=805/SVG/&file=linkedin_icon-icons.com_65929.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/frankwallace-pa//)
+  
+<p align='center'>
+  <a href="https://frank-wallace.itch.io/" target="blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
+  <a href="https://www.linkedin.com/in/frankwallace-pa/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://lunaamora.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-607D8B?style=for-the-badge" alt="Portfolio"/></a>
+</p>
 
-<h3>My main technologies</h3>
-<hr>
+<p align='center'>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LunaAmora&theme=dark&count_private=true&show_icons=true" width="350"></a>
+</p>
 
-<img alt="CSharp" src="https://www.genpac.com.br/images/c_sharp.svg" width="50"> <img alt="Unity" src="https://i.redd.it/tu3gt6ysfxq71.png" width="50"> <img alt="CSharp" src="https://godotengine.org/themes/godotengine/assets/press/icon_color.svg" width="50">
+<p align='center'>
+  My main technologies 🧡<br/><br/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
+<br>  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
+</p>
