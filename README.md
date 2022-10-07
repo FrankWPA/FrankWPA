@@ -8,7 +8,7 @@
 
   
 <p align='center'>
-  <a href="https://frank-wallace.itch.io/" target="blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
+  <a href="https://luna-amora.itch.io/" target="blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
   <a href="https://www.linkedin.com/in/frankwallace-pa/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   <a href="https://lunaamora.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-607D8B?style=for-the-badge" alt="Portfolio"/></a>
 </p>
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
 <br>  
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
 </p>
